@@ -1,0 +1,3 @@
+﻿  курсач.c
+C:\Users\Любовь\source\repos\курсач\курсач\курсач.c(21,15): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  курсач.vcxproj -> C:\Users\Любовь\source\repos\курсач\x64\Debug\курсач.exe
